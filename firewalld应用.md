@@ -15,6 +15,7 @@ category:
 <!-- more -->
 
 1. 放行nginx http服务
+
     1.1 查询firewalld支持的服务
 >>> shell
 firewadll-cmd --get-services
