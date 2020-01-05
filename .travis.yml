@@ -1,5 +1,5 @@
 # .travis.yml
-language: html
+language: Markdown
 branchs:
   only:
-  - maste
+    - maste
