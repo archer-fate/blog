@@ -19,10 +19,12 @@ category:
 >>> shell
 firewadll-cmd --get-services
 >>>
+
     1.2 使用设置当前区域放行http服务
 >>> shell
 firewall-cmd --zone=public --add-service=http --permanent 
 >>>
+
     1.3 重启firewalld服务
 >>> shell
 systemctl restart firewalld
