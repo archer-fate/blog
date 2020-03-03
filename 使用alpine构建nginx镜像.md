@@ -146,5 +146,4 @@ WORKDIR dir
 EXPOSE port
 CMD ["/usr/bin/supervisord"]
 ```
-2. 项目地址
-    
+
